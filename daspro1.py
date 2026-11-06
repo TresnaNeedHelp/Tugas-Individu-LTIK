@@ -1,8 +1,8 @@
 #Iqbal Fadhil Tresnadarma
 #2611911
 #RPL 1C
-#baris ini adalah penambahan sebuah comment
 
+#baris ini adalah penambahan comment
 print("Latihan 1.1 - Fibonacci")
 def deretFibonaci(TotalDeretanAngka):
     listFibonaci = []
