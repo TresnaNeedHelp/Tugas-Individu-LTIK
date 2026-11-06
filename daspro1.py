@@ -2,6 +2,7 @@
 #2611911
 #RPL 1C
 #baris ini adalah penambahan sebuah comment
+
 print("Latihan 1.1 - Fibonacci")
 def deretFibonaci(TotalDeretanAngka):
     listFibonaci = []
